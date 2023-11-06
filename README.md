@@ -4,7 +4,7 @@
 ```markdown
 # Gender Image Classifier
 
-![Gender Image Classifier Demo](demo.gif)
+![Gender Image Classifier Demo]
 
 ## Overview
 
